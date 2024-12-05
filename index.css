@@ -1,8 +1,14 @@
 h1
 {
     color: aquamarine;
+    font-size: 33px;
 }
 p
 {
-    font-size: 51px;
+    font-size: 21px;
+}
+span
+{
+    font-size: 25px;
+    color: burlywood;
 }
