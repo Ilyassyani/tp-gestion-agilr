@@ -1,21 +1,4 @@
-h1
+h2
 {
-    color: aquamarine;
-}
-.premiertitre
-{
-    font-size: 45px;
-}
-.deuxiemetitre
-{
-    font-size: 30px;
-}
-p
-{
-    font-size: 21px;
-}
-span
-{
-    font-size: 25px;
-    color: burlywood;
+    text-align: center;
 }
